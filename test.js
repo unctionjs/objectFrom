@@ -1,4 +1,4 @@
-/* eslint-disable flowtype/require-parameter-type, flowtype/require-return-type */
+/* eslint-disable flowtype/require-return-type */
 import objectFrom from "./index"
 
 test("works", () => {
