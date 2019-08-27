@@ -1,5 +1,5 @@
-/* eslint-disable flowtype/require-return-type */
-import objectFrom from "./index";
+
+import objectFrom from "./";
 
 test("works", () => {
   expect(
