@@ -4,7 +4,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> KeyChainType => ValueType => EnumerableType
+> KeyChainType<A> => B => ObjectType<B>
 
 Given a keychain and a value it creates an object that has keys based on the keychain.
 
