@@ -1,5 +1,5 @@
 
-import objectFrom from "./";
+import objectFrom from "./index.ts";
 
 test("works", () => {
   expect(
